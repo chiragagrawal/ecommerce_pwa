@@ -1,0 +1,7 @@
+node_modules
+.firebaserc
+database.rules.json
+firebase.json
+build
+package-lock.json
+.idea/
